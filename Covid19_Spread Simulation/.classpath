@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine_8.5.2.202001241833/com.anylogic.engine.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.help_8.5.2.202001241833.jar!/html/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine_8.5.2.202001241833/com.anylogic.engine.nl.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/com.anylogic.engine.sa.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.core_8.5.2.202001241833/com.anylogic.ms.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/com.anylogic.engine.sa.web.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/executor-basic-8.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/ioutil-8.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/commons-codec-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/jackson-annotations-2.8.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/jackson-core-2.8.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/jackson-databind-2.8.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/jackson-datatype-jsr310-2.8.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/jetty-client-9.4.8.v20171121.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/jetty-http-9.4.8.v20171121.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/jetty-io-9.4.8.v20171121.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/jetty-security-9.4.8.v20171121.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/jetty-server-9.4.8.v20171121.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/jetty-servlet-9.4.8.v20171121.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/jetty-servlets-9.4.8.v20171121.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/jetty-util-9.4.8.v20171121.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/jetty-webapp-9.4.8.v20171121.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/jetty-xml-9.4.8.v20171121.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/jsch-0.1.54.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/slf4j-api-1.7.21.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/spark-core-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/websocket-api-9.4.8.v20171121.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/websocket-client-9.4.8.v20171121.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/websocket-common-9.4.8.v20171121.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/websocket-server-9.4.8.v20171121.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/spark/websocket-servlet-9.4.8.v20171121.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.engine.sa_8.5.2.202001241833/lib/sa/util-8.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.optimizer_8.5.2.202001241833/lib/OptQuest.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.optimizer_8.5.2.202001241833/ext/OptQuestJavaDoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.third_party_libraries_8.5.2.202001241833/lib/database/querydsl/querydsl-core-4.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.third_party_libraries_8.5.2.202001241833/lib/database/querydsl/querydsl-sql-4.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.third_party_libraries_8.5.2.202001241833/lib/database/querydsl/querydsl-sql-codegen-4.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.third_party_libraries_8.5.2.202001241833/lib/ecj/ecj-4.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.third_party_libraries_8.5.2.202001241833/lib/ecj/java10api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 8.5 Personal Learning Edition/plugins/com.anylogic.third_party_libraries_8.5.2.202001241833/lib/database/querydsl/guava-18.0.jar"/>
+	<classpathentry kind="src" path="src.generated"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
